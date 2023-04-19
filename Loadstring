@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SHADOW088/RaceClickerScript/main/Script.lua"))();
